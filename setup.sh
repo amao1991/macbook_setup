@@ -28,20 +28,24 @@ fi
 brew install --cask \
 iterm2 \
 spotify \
-brooklyn \
 vmware-fusion \
 google-chrome \
-notion \
 visual-studio-code \
-1password \
+microsoft-remote-desktop \
 the-unarchiver \
 telegram-desktop \
 messenger \
 iina
-# stats \
+stats \
 # hiddenbar \
 # quip \
-# microsoft-remote-desktop \
+# brooklyn \
+# 1password \
+# notion \
+
+# brew caffix/amass install
+brew tap caffix/amass
+brew install amass
 
 # brew cask/versions install
 brew tap homebrew/cask-versions
@@ -66,5 +70,4 @@ firefox-nightly
 mas install \
 1451685025 \
 539883307 \
-1176895641 \
 975937182
