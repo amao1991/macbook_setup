@@ -37,6 +37,7 @@ telegram-desktop \
 messenger \
 iina
 stats \
+appcleaner \
 # hiddenbar \
 # quip \
 # brooklyn \
